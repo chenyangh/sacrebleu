@@ -55,6 +55,7 @@ _UCODE_RANGES = [
                              # half width Katakana, half wide half width kana, Korean alphabet
     (u'\u2e80', u'\u2eff'),  # CJK Radicals Supplement
     (u'\u3000', u'\u303f'),  # CJK punctuation mark
+    (u'\u3040', u'\u30ff'),  # CJK Katakana and Hiragana
     (u'\u31c0', u'\u31ef'),  # CJK stroke
     (u'\u2f00', u'\u2fdf'),  # Kangxi Radicals
     (u'\u2ff0', u'\u2fff'),  # Chinese character structure
